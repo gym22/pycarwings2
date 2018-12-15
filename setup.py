@@ -29,7 +29,7 @@ setup(
         'PyYAML',
         'iso8601',
         'requests',
-        'pycryptodome'],
+        'pycryptodome>=3.7'],
     include_package_data=True,
     packages=find_packages(),
 )
